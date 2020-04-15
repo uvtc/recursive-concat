@@ -4,7 +4,7 @@
 #
 # Usage:
 #
-#     recursive-concat.py > out
+#     recursive-concat.py > ../all-one-page.txt
 #
 # It goes in shell/asciibetical order, so if you want things in a certain
 # order, name them like 010_this.txt, 011_that_dir, 012_other.txt, etc.
