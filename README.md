@@ -16,7 +16,7 @@ goes to stdout, so you'll usually pipe it to an output file:
 
 This is handy to use when you have a directory full of markdown-formatted
 files which you'd like to process into one big output file. For example, to
-create a pdf you might use [pandoc](https://pandoc.org/), like so:
+create a pdf you might use [Pandoc](https://pandoc.org/), like so:
 
     pandoc all-one-page.txt -s -f markdown+smart \
         -o all-one-page.pdf -V geometry:"margin=0.6in" -V fontsize=12pt
