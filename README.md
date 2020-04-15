@@ -1,6 +1,6 @@
 # recursive-concat
 
-Recursively concat .txt or .md files in the current directory and below.
+Recursively concatenate .txt or .md files in the current directory and below.
 
 To install, copy recursive-concat.py to your ~/bin and make it executable:
 
