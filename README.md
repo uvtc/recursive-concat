@@ -4,7 +4,7 @@ Recursively concatenate .txt or .md files in the current directory and below.
 
 To install, copy recursive-concat.py to your ~/bin and make it executable:
 
-    chmod +x ./recursive-concat.py
+    chmod +x ~/bin/recursive-concat.py
 
 Usage: run the script in a directory containing .txt or .md files. Output
 goes to stdout, so you'll usually pipe it to an output file located outside
